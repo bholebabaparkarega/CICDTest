@@ -22,7 +22,7 @@ namespace CICDTest.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact tail.";
 
             return View();
         }

@@ -23,6 +23,7 @@ namespace CICDTest.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
+
         }
 
         [TestMethod]
